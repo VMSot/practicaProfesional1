@@ -11,3 +11,15 @@ y a la planificación de inversiones en infraestructura.
 Para llevar a cabo el estudio, se utilizan los microdatos de la Encuesta Permanente de Hogares (EPH) del Instituto Nacional de Estadística y Censos (INDEC),
 facilitados por la cátedra. 
 El análisis se realiza mediante Python en Google Colab, aplicando técnicas de limpieza, procesamiento y análisis exploratorio de datos.
+
+Instrucciones de ejecución
+
+El análisis fue desarrollado en Python utilizando Google Colab.
+Para ejecutar el proyecto:
+Ingresar a la carpeta notebooks del repositorio.
+Abrir el archivo con extensión .ipynb.
+Seleccionar la opción Open in Colab para abrirlo en Google Colab.
+Ejecutar las celdas en orden, desde el inicio hasta el final.
+
+El notebook utiliza las bibliotecas Pandas y NumPy para generar, procesar y analizar los datos simulados.
+Los resultados incluyen estadísticas descriptivas de las variables cuantitativas seleccionadas.
