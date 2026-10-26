@@ -1,4 +1,5 @@
-1. Introducción
+#Informe Tecnico
+##1. Introducción
 La brecha digital se refiere a las diferencias en el acceso, uso y aprovechamiento de las tecnologías de la información y la comunicación(TIC)
 entre personas, hogares y territorios. 
 En Argentina, la brecha digital puede estar relacionada con diversos factores socioeconómicos, educativos y geográficos, 
