@@ -26,12 +26,12 @@ La brecha digital puede analizarse desde tres dimensiones principales:
 
 Estas dimensiones se relacionan entre sí y pueden contribuir a reproducir desigualdades sociales preexistentes.
 
-###3. Fundamentos teóricos
+### 3. Fundamentos teóricos
 
 La investigación se basa en el enfoque de la desigualdad social, que permite estudiar cómo los recursos y las oportunidades se distribuyen de manera desigual entre la población. También considera la teoría del capital humano de Becker (1964), que destaca la importancia de la educación y las habilidades en el desarrollo de oportunidades individuales.
 Estos enfoques permiten analizar cómo las condiciones económicas, educativas y territoriales se relacionan con el acceso a las tecnologías.
 
-###4. Definición de las variables
+### 4. Definición de las variables
 
 El análisis utiliza microdatos de la Encuesta Permanente de Hogares (EPH) del INDEC. Las variables seleccionadas son:
 
@@ -51,6 +51,6 @@ El análisis utiliza microdatos de la Encuesta Permanente de Hogares (EPH) del I
 
 Las variables IV12_3 e II7 permiten estudiar el acceso a dispositivos y conectividad, mientras que las restantes aportan información sobre las condiciones sociales, económicas y educativas de los hogares.
 
-###5. Relación con la investigación
+### 5. Relación con la investigación
 
 El objetivo es analizar las desigualdades regionales y socioeconómicas en el acceso a las tecnologías en Argentina. Se buscará identificar si la disponibilidad de computadoras e Internet fija presenta diferencias según los ingresos, el nivel educativo y la región. Los resultados permitirán reconocer patrones de desigualdad, sin asumir relaciones causales que los datos no permitan demostrar.
