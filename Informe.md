@@ -1,4 +1,4 @@
-# Informe Tecnico
+# Informe Técnico
 ## 1. Introducción
 La brecha digital se refiere a las diferencias en el acceso, uso y aprovechamiento de las tecnologías de la información y la comunicación (TIC)
 entre personas, hogares y territorios. 
