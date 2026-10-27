@@ -14,7 +14,7 @@ El análisis se realiza mediante Python en Google Colab, aplicando técnicas de 
 ## 2. Marco Teórico
 ### 1. Concepto de brecha digital
 
-La brecha digital se refiere a las desigualdades en el acceso, uso y aprovechamiento de las tecnologías de la información y la comunicación (TIC). Estas diferencias no dependen únicamente de la disponibilidad de dispositivos y conexión a Internet, sino también de factores sociales, económicos y educativos que condicionan las oportunidades de acceso (OCDE, 2001; van Dijk, 2005).
+La brecha digital constituye una forma de desigualdad social vinculada con las oportunidades de acceso y aprovechamiento de las tecnologías de la información y la comunicación (TIC). La OCDE (2001) destaca las diferencias entre personas, hogares y regiones en sus posibilidades de acceder a estas tecnologías. Por su parte, van Dijk (2005) señala que las desigualdades digitales no se limitan a la disponibilidad de dispositivos, sino que también involucran las habilidades y las condiciones necesarias para utilizarlos.
 
 ### 2. Dimensiones de la brecha digital
 
