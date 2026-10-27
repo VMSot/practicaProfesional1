@@ -12,11 +12,11 @@ y a la planificación de inversiones en infraestructura.
 Para llevar a cabo el estudio, se utiliza un conjunto de datos simulados, basado en variables de la Encuesta Permanente de Hogares (EPH) del INDEC y generado mediante un código proporcionado por la cátedra.
 El análisis se realiza mediante Python en Google Colab, aplicando técnicas de limpieza, procesamiento y análisis exploratorio de datos.
 ## 2. Marco Teórico
-###1. Concepto de brecha digital
+### 1. Concepto de brecha digital
 
 La brecha digital se refiere a las desigualdades en el acceso, uso y aprovechamiento de las tecnologías de la información y la comunicación (TIC). Estas diferencias no dependen únicamente de la disponibilidad de dispositivos y conexión a Internet, sino también de factores sociales, económicos y educativos que condicionan las oportunidades de acceso (OCDE, 2001; van Dijk, 2005).
 
-###2. Dimensiones de la brecha digital
+### 2. Dimensiones de la brecha digital
 
 La brecha digital puede analizarse desde tres dimensiones principales:
 
