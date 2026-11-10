@@ -24,10 +24,16 @@ Considero fundamental comunicar los resultados de manera clara, objetiva y trans
 
  Ingresar a Google Colab y abrir los archivos .ipynb disponibles en la carpeta /notebooks.
 
-4. Cargar los datos
+4. Cargar los datos.
+   
+El proyecto cuenta con dos archivos CSV disponibles en la carpeta data:
 
- Subir el archivo df_clean.csv, disponible en la carpeta data, al entorno de ejecución de Google Colab.
- Tener en cuenta que los archivos cargados manualmente en Google Colab se almacenan temporalmente en el entorno de ejecución.
+eph_tecnologia_microdatos.csv: contiene los datos originales utilizados para el proceso de limpieza.
+
+df_clean.csv: contiene el conjunto de datos limpio, utilizado para los análisis estadísticos.
+
+Los archivos necesarios deben cargarse en el entorno de ejecución de Google Colab según el notebook que se desee ejecutar.
+Nota: Tener en cuenta que los archivos cargados manualmente en Google Colab se almacenan temporalmente en el entorno de ejecución.
 
 5. Ejecutar el proyecto
 
@@ -36,8 +42,6 @@ Considero fundamental comunicar los resultados de manera clara, objetiva y trans
 * Limpieza y preparación de datos.
 
 * Estadísticas descriptivas univariantes.
-
-* Análisis bivariante.
 
 * Interpretación de resultados.
 
