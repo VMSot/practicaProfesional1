@@ -8,7 +8,42 @@ El alcance se limita al análisis descriptivo y exploratorio de datos, sin inclu
 Mi compromiso es comprender las necesidades y objetivos de cada cliente antes de comenzar un análisis, garantizando un tratamiento responsable y confidencial de la información.
 Considero fundamental comunicar los resultados de manera clara, objetiva y transparente, reconociendo las limitaciones del análisis para contribuir a una toma de decisiones informada.
 
+## guía de instalación/ejecución.
+
+1. Primero para utilizar este proyecto se necesita:
+
+* Una cuenta de GitHub.
+* Acceso a Google Colab.
+* Conexión a Internet.
+
+2. Obtener el repositorio
+
+Clonar o descargar el repositorio desde GitHub.
+
+3. Abrir los notebooks
+
+Ingresar a Google Colab y abrir los archivos .ipynb disponibles en la carpeta /notebooks.
+
+4. Cargar los datos
+
+Subir el archivo df_clean.csv, disponible en la carpeta data, al entorno de ejecución de Google Colab.
+
+Tener en cuenta que los archivos cargados manualmente en Google Colab se almacenan temporalmente en el entorno de ejecución.
+
+5. Ejecutar el proyecto
+
+Ejecutar las celdas de los notebooks en orden, siguiendo las etapas del análisis:
+
+* Limpieza y preparación de datos.
+
+* Estadísticas descriptivas univariantes.
+
+* Análisis bivariante.
+
+* Interpretación de resultados.
+
 ## Diccionario de variables.
+
 El diccionario de variables documenta el significado, el tipo de dato y las categorías de cada campo, facilitando la interpretación y reproducibilidad del análisis.
 
 CODUSU: Identificador único del hogar.
