@@ -76,6 +76,7 @@ II7	Tenencia de conexión a internet fija en el hogar.	1: Sí; 2: No; 9: Sin res
 
 ![Captura](imagenes/Tablero_Kanban.png)
 
+## Sintesis de hallazgos.
 
 
 
