@@ -10,7 +10,7 @@ Considero fundamental comunicar los resultados de manera clara, objetiva y trans
 
 ## Tablero Kanban
 
-![Captura](imagenes/Tablero_Kaiban.png)
+![Captura](imagenes/Tablero_Kanban.png)
 
 
 
