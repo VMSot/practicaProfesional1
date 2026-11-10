@@ -33,7 +33,8 @@ eph_tecnologia_microdatos.csv: contiene los datos originales utilizados para el 
 df_clean.csv: contiene el conjunto de datos limpio, utilizado para los análisis estadísticos.
 
 Los archivos necesarios deben cargarse en el entorno de ejecución de Google Colab según el notebook que se desee ejecutar.
-Nota: Tener en cuenta que los archivos cargados manualmente en Google Colab se almacenan temporalmente en el entorno de ejecución.
+
+*Nota:* Tener en cuenta que los archivos cargados manualmente en Google Colab se almacenan temporalmente en el entorno de ejecución.
 
 5. Ejecutar el proyecto
 
