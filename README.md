@@ -8,7 +8,7 @@ El alcance se limita al análisis descriptivo y exploratorio de datos, sin inclu
 Mi compromiso es comprender las necesidades y objetivos de cada cliente antes de comenzar un análisis, garantizando un tratamiento responsable y confidencial de la información.
 Considero fundamental comunicar los resultados de manera clara, objetiva y transparente, reconociendo las limitaciones del análisis para contribuir a una toma de decisiones informada.
 
-## Tablero Kaiban
+## Tablero Kanban
 
 ![Captura](imagenes/Tablero_Kaiban.png)
 
