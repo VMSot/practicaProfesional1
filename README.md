@@ -28,9 +28,9 @@ Considero fundamental comunicar los resultados de manera clara, objetiva y trans
    
 El proyecto cuenta con dos archivos CSV disponibles en la carpeta data:
 
-eph_tecnologia_microdatos.csv: contiene los datos originales utilizados para el proceso de limpieza.
+*eph_tecnologia_microdatos.csv: contiene los datos originales utilizados para el proceso de limpieza.
 
-df_clean.csv: contiene el conjunto de datos limpio, utilizado para los análisis estadísticos.
+*df_clean.csv: contiene el conjunto de datos limpio, utilizado para los análisis estadísticos.
 
 Los archivos necesarios deben cargarse en el entorno de ejecución de Google Colab según el notebook que se desee ejecutar.
 
