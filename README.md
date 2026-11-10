@@ -10,7 +10,7 @@ Considero fundamental comunicar los resultados de manera clara, objetiva y trans
 
 ## Tablero Kaiban
 
-
+![Captura](imagenes/Tablero_Kaiban.png)
 
 
 
