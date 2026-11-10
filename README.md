@@ -11,9 +11,12 @@ Considero fundamental comunicar los resultados de manera clara, objetiva y trans
 ## Diccionario de variables.
 El diccionario de variables documenta el significado, el tipo de dato y las categorías de cada campo, facilitando la interpretación y reproducibilidad del análisis.
 
-CODUSU:	Identificador único del hogar.
+CODUSU: Identificador único del hogar.
+
 REGION:	Región geográfica del hogar. 1: GBA; 40: NOA; 41: NEA; 42: Cuyo; 43: Pampeana; 44: Patagonia.
+
 IX_TOT:	Cantidad total de integrantes del hogar. Valores enteros mayores o iguales a 1.
+
 NIVEL_ED	Nivel educativo del jefe/a del hogar.
           1: Primaria incompleta; 
           2: Primaria completa; 
@@ -21,9 +24,13 @@ NIVEL_ED	Nivel educativo del jefe/a del hogar.
           4: Secundaria completa; 
           5: Superior/universitario completo;
           9: Sin respuesta.
+          
 ITF:	Ingreso total familiar.
+
 DECIFR:	Decil de ingreso total familiar. Valores del 1 al 10; 1 representa los ingresos más bajos y 10 los más altos.
-IV12_3:	Tenencia de computadora o laptop en el hogar.	1: Sí; 2: No; 9: Sin respuesta.
+
+IV12_3:	Tenencia de computadora o laptop en el hogar. 1: Sí; 2: No; 9: Sin respuesta.
+
 II7	Tenencia de conexión a internet fija en el hogar.	1: Sí; 2: No; 9: Sin respuesta.
 
 ## Tablero Kanban
