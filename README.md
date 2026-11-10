@@ -12,27 +12,26 @@ Considero fundamental comunicar los resultados de manera clara, objetiva y trans
 
 1. Primero para utilizar este proyecto se necesita:
 
-* Una cuenta de GitHub.
-* Acceso a Google Colab.
-* Conexión a Internet.
+ * Una cuenta de GitHub.
+ * Acceso a Google Colab.
+ * Conexión a Internet.
 
 2. Obtener el repositorio
 
-Clonar o descargar el repositorio desde GitHub.
+ Clonar o descargar el repositorio desde GitHub.
 
 3. Abrir los notebooks
 
-Ingresar a Google Colab y abrir los archivos .ipynb disponibles en la carpeta /notebooks.
+ Ingresar a Google Colab y abrir los archivos .ipynb disponibles en la carpeta /notebooks.
 
 4. Cargar los datos
 
-Subir el archivo df_clean.csv, disponible en la carpeta data, al entorno de ejecución de Google Colab.
-
-Tener en cuenta que los archivos cargados manualmente en Google Colab se almacenan temporalmente en el entorno de ejecución.
+ Subir el archivo df_clean.csv, disponible en la carpeta data, al entorno de ejecución de Google Colab.
+ Tener en cuenta que los archivos cargados manualmente en Google Colab se almacenan temporalmente en el entorno de ejecución.
 
 5. Ejecutar el proyecto
 
-Ejecutar las celdas de los notebooks en orden, siguiendo las etapas del análisis:
+ Ejecutar las celdas de los notebooks en orden, siguiendo las etapas del análisis:
 
 * Limpieza y preparación de datos.
 
