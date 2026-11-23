@@ -7,6 +7,11 @@ El alcance se limita al análisis descriptivo y exploratorio de datos, sin inclu
 
 Mi compromiso es comprender las necesidades y objetivos de cada cliente antes de comenzar un análisis, garantizando un tratamiento responsable y confidencial de la información.
 Considero fundamental comunicar los resultados de manera clara, objetiva y transparente, reconociendo las limitaciones del análisis para contribuir a una toma de decisiones informada.
+#### Presentación del proyecto
+
+La brecha digital refleja las desigualdades en el acceso y uso de las Tecnologías de la Información y la Comunicación (TIC). En Argentina, estas diferencias pueden estar relacionadas con factores socioeconómicos, educativos y geográficos.
+Este proyecto tiene como objetivo analizar las desigualdades en el acceso de los hogares a internet fijo y computadoras, con el propósito de aportar información que contribuya al diseño de políticas públicas de inclusión tecnológica.
+Para el análisis se utilizan datos simulados, construidos tomando como referencia la estructura de la Encuesta Permanente de Hogares (EPH) del INDEC. El procesamiento y análisis de los datos se realizan mediante Python en Google Colab.
 
 ## guía de instalación/ejecución.
 
@@ -77,6 +82,14 @@ II7	Tenencia de conexión a internet fija en el hogar.	1: Sí; 2: No; 9: Sin res
 ![Captura](imagenes/Tablero_Kanban.png)
 
 ## Sintesis de hallazgos.
+
+## Síntesis de hallazgos
+
+El análisis permitió identificar asociaciones entre las condiciones socioeconómicas y educativas y el acceso a las tecnologías en los hogares de la base de datos.
+Los resultados muestran que los hogares con mayores ingresos presentan una mayor tenencia de computadoras o laptops, con una diferencia de 39,83 puntos porcentuales entre los grupos de ingresos extremos. Asimismo, el acceso a internet fijo aumenta con el nivel educativo del jefe del hogar, con una diferencia de 53,81 puntos porcentuales entre las categorías educativas extremas.
+Por otra parte, los hogares que cuentan con internet fijo presentan una mayor tenencia de computadoras que aquellos que no disponen de conexión, con una diferencia de 14,43 puntos porcentuales.
+En conjunto, los resultados respaldan las tres hipótesis planteadas y evidencian que la brecha digital comprende distintas dimensiones, relacionadas con los recursos económicos, el nivel educativo y la disponibilidad de infraestructura tecnológica.
+Los resultados corresponden exclusivamente a la base de datos simulada analizada y no representan estimaciones de la población argentina.
 
 
 
