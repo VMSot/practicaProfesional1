@@ -7,7 +7,7 @@ El alcance se limita al análisis descriptivo y exploratorio de datos, sin inclu
 
 Mi compromiso es comprender las necesidades y objetivos de cada cliente antes de comenzar un análisis, garantizando un tratamiento responsable y confidencial de la información.
 Considero fundamental comunicar los resultados de manera clara, objetiva y transparente, reconociendo las limitaciones del análisis para contribuir a una toma de decisiones informada.
-#### Presentación del proyecto
+## Presentación del proyecto
 
 La brecha digital refleja las desigualdades en el acceso y uso de las Tecnologías de la Información y la Comunicación (TIC). En Argentina, estas diferencias pueden estar relacionadas con factores socioeconómicos, educativos y geográficos.
 Este proyecto tiene como objetivo analizar las desigualdades en el acceso de los hogares a internet fijo y computadoras, con el propósito de aportar información que contribuya al diseño de políticas públicas de inclusión tecnológica.
